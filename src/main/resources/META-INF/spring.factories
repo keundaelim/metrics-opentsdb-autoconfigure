@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.sett4.metrics.opentsdb.OpenTsdbMetricsExportAutoConfiguration
